@@ -1,7 +1,11 @@
 * {
     background-color: #2b2b2b;
-    color: #FFFFF;
 }
+
+.blurb {
+    color: #FFFFFF;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -11,6 +15,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    color: #FFFFFF;
 }
 nav ul li, footer ul li {
     display: inline;
